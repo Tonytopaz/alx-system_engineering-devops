@@ -1,2 +1,5 @@
 #!/bin/bash
 rm tmp/my_first_directory/betty
+[master c8635e5] My commit on task eight
+ 1 file changed, 2 insertions(+)
+ create mode 100755 0x00-shell_basics/8-firstdelete
